@@ -25,5 +25,7 @@ public class Main {
             System.out.println("need more length"); // this is run
         }
 
+//        variables have BLOCK SCOPE
+
     }
 }
